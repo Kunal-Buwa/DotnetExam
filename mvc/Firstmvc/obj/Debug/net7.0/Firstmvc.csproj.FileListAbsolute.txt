@@ -1,0 +1,62 @@
+F:\IACSD\dotnet\codes\day 8\mvc\Firstmvc\bin\Debug\net7.0\appsettings.Development.json
+F:\IACSD\dotnet\codes\day 8\mvc\Firstmvc\bin\Debug\net7.0\appsettings.json
+F:\IACSD\dotnet\codes\day 8\mvc\Firstmvc\bin\Debug\net7.0\Firstmvc.staticwebassets.runtime.json
+F:\IACSD\dotnet\codes\day 8\mvc\Firstmvc\bin\Debug\net7.0\Firstmvc.exe
+F:\IACSD\dotnet\codes\day 8\mvc\Firstmvc\bin\Debug\net7.0\Firstmvc.deps.json
+F:\IACSD\dotnet\codes\day 8\mvc\Firstmvc\bin\Debug\net7.0\Firstmvc.runtimeconfig.json
+F:\IACSD\dotnet\codes\day 8\mvc\Firstmvc\bin\Debug\net7.0\Firstmvc.dll
+F:\IACSD\dotnet\codes\day 8\mvc\Firstmvc\bin\Debug\net7.0\Firstmvc.pdb
+F:\IACSD\dotnet\codes\day 8\mvc\Firstmvc\obj\Debug\net7.0\Firstmvc.csproj.AssemblyReference.cache
+F:\IACSD\dotnet\codes\day 8\mvc\Firstmvc\obj\Debug\net7.0\Firstmvc.GeneratedMSBuildEditorConfig.editorconfig
+F:\IACSD\dotnet\codes\day 8\mvc\Firstmvc\obj\Debug\net7.0\Firstmvc.AssemblyInfoInputs.cache
+F:\IACSD\dotnet\codes\day 8\mvc\Firstmvc\obj\Debug\net7.0\Firstmvc.AssemblyInfo.cs
+F:\IACSD\dotnet\codes\day 8\mvc\Firstmvc\obj\Debug\net7.0\Firstmvc.csproj.CoreCompileInputs.cache
+F:\IACSD\dotnet\codes\day 8\mvc\Firstmvc\obj\Debug\net7.0\Firstmvc.MvcApplicationPartsAssemblyInfo.cache
+F:\IACSD\dotnet\codes\day 8\mvc\Firstmvc\obj\Debug\net7.0\Firstmvc.RazorAssemblyInfo.cache
+F:\IACSD\dotnet\codes\day 8\mvc\Firstmvc\obj\Debug\net7.0\Firstmvc.RazorAssemblyInfo.cs
+F:\IACSD\dotnet\codes\day 8\mvc\Firstmvc\obj\Debug\net7.0\staticwebassets\msbuild.Firstmvc.Microsoft.AspNetCore.StaticWebAssets.props
+F:\IACSD\dotnet\codes\day 8\mvc\Firstmvc\obj\Debug\net7.0\staticwebassets\msbuild.build.Firstmvc.props
+F:\IACSD\dotnet\codes\day 8\mvc\Firstmvc\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Firstmvc.props
+F:\IACSD\dotnet\codes\day 8\mvc\Firstmvc\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Firstmvc.props
+F:\IACSD\dotnet\codes\day 8\mvc\Firstmvc\obj\Debug\net7.0\staticwebassets.pack.json
+F:\IACSD\dotnet\codes\day 8\mvc\Firstmvc\obj\Debug\net7.0\staticwebassets.build.json
+F:\IACSD\dotnet\codes\day 8\mvc\Firstmvc\obj\Debug\net7.0\staticwebassets.development.json
+F:\IACSD\dotnet\codes\day 8\mvc\Firstmvc\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\IACSD\dotnet\codes\day 8\mvc\Firstmvc\obj\Debug\net7.0\scopedcss\bundle\Firstmvc.styles.css
+F:\IACSD\dotnet\codes\day 8\mvc\Firstmvc\obj\Debug\net7.0\scopedcss\projectbundle\Firstmvc.bundle.scp.css
+F:\IACSD\dotnet\codes\day 8\mvc\Firstmvc\obj\Debug\net7.0\Firstmvc.dll
+F:\IACSD\dotnet\codes\day 8\mvc\Firstmvc\obj\Debug\net7.0\refint\Firstmvc.dll
+F:\IACSD\dotnet\codes\day 8\mvc\Firstmvc\obj\Debug\net7.0\Firstmvc.pdb
+F:\IACSD\dotnet\codes\day 8\mvc\Firstmvc\obj\Debug\net7.0\Firstmvc.genruntimeconfig.cache
+F:\IACSD\dotnet\codes\day 8\mvc\Firstmvc\obj\Debug\net7.0\ref\Firstmvc.dll
+F:\IACSD\dotnet\codes\dotnet-codes\day8\mvc\Firstmvc\bin\Debug\net7.0\appsettings.Development.json
+F:\IACSD\dotnet\codes\dotnet-codes\day8\mvc\Firstmvc\bin\Debug\net7.0\appsettings.json
+F:\IACSD\dotnet\codes\dotnet-codes\day8\mvc\Firstmvc\bin\Debug\net7.0\Firstmvc.staticwebassets.runtime.json
+F:\IACSD\dotnet\codes\dotnet-codes\day8\mvc\Firstmvc\bin\Debug\net7.0\Firstmvc.exe
+F:\IACSD\dotnet\codes\dotnet-codes\day8\mvc\Firstmvc\bin\Debug\net7.0\Firstmvc.deps.json
+F:\IACSD\dotnet\codes\dotnet-codes\day8\mvc\Firstmvc\bin\Debug\net7.0\Firstmvc.runtimeconfig.json
+F:\IACSD\dotnet\codes\dotnet-codes\day8\mvc\Firstmvc\bin\Debug\net7.0\Firstmvc.dll
+F:\IACSD\dotnet\codes\dotnet-codes\day8\mvc\Firstmvc\bin\Debug\net7.0\Firstmvc.pdb
+F:\IACSD\dotnet\codes\dotnet-codes\day8\mvc\Firstmvc\obj\Debug\net7.0\Firstmvc.csproj.AssemblyReference.cache
+F:\IACSD\dotnet\codes\dotnet-codes\day8\mvc\Firstmvc\obj\Debug\net7.0\Firstmvc.GeneratedMSBuildEditorConfig.editorconfig
+F:\IACSD\dotnet\codes\dotnet-codes\day8\mvc\Firstmvc\obj\Debug\net7.0\Firstmvc.AssemblyInfoInputs.cache
+F:\IACSD\dotnet\codes\dotnet-codes\day8\mvc\Firstmvc\obj\Debug\net7.0\Firstmvc.AssemblyInfo.cs
+F:\IACSD\dotnet\codes\dotnet-codes\day8\mvc\Firstmvc\obj\Debug\net7.0\Firstmvc.csproj.CoreCompileInputs.cache
+F:\IACSD\dotnet\codes\dotnet-codes\day8\mvc\Firstmvc\obj\Debug\net7.0\Firstmvc.MvcApplicationPartsAssemblyInfo.cache
+F:\IACSD\dotnet\codes\dotnet-codes\day8\mvc\Firstmvc\obj\Debug\net7.0\Firstmvc.RazorAssemblyInfo.cache
+F:\IACSD\dotnet\codes\dotnet-codes\day8\mvc\Firstmvc\obj\Debug\net7.0\Firstmvc.RazorAssemblyInfo.cs
+F:\IACSD\dotnet\codes\dotnet-codes\day8\mvc\Firstmvc\obj\Debug\net7.0\staticwebassets\msbuild.Firstmvc.Microsoft.AspNetCore.StaticWebAssets.props
+F:\IACSD\dotnet\codes\dotnet-codes\day8\mvc\Firstmvc\obj\Debug\net7.0\staticwebassets\msbuild.build.Firstmvc.props
+F:\IACSD\dotnet\codes\dotnet-codes\day8\mvc\Firstmvc\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Firstmvc.props
+F:\IACSD\dotnet\codes\dotnet-codes\day8\mvc\Firstmvc\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Firstmvc.props
+F:\IACSD\dotnet\codes\dotnet-codes\day8\mvc\Firstmvc\obj\Debug\net7.0\staticwebassets.pack.json
+F:\IACSD\dotnet\codes\dotnet-codes\day8\mvc\Firstmvc\obj\Debug\net7.0\staticwebassets.build.json
+F:\IACSD\dotnet\codes\dotnet-codes\day8\mvc\Firstmvc\obj\Debug\net7.0\staticwebassets.development.json
+F:\IACSD\dotnet\codes\dotnet-codes\day8\mvc\Firstmvc\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\IACSD\dotnet\codes\dotnet-codes\day8\mvc\Firstmvc\obj\Debug\net7.0\scopedcss\bundle\Firstmvc.styles.css
+F:\IACSD\dotnet\codes\dotnet-codes\day8\mvc\Firstmvc\obj\Debug\net7.0\scopedcss\projectbundle\Firstmvc.bundle.scp.css
+F:\IACSD\dotnet\codes\dotnet-codes\day8\mvc\Firstmvc\obj\Debug\net7.0\Firstmvc.dll
+F:\IACSD\dotnet\codes\dotnet-codes\day8\mvc\Firstmvc\obj\Debug\net7.0\refint\Firstmvc.dll
+F:\IACSD\dotnet\codes\dotnet-codes\day8\mvc\Firstmvc\obj\Debug\net7.0\Firstmvc.pdb
+F:\IACSD\dotnet\codes\dotnet-codes\day8\mvc\Firstmvc\obj\Debug\net7.0\Firstmvc.genruntimeconfig.cache
+F:\IACSD\dotnet\codes\dotnet-codes\day8\mvc\Firstmvc\obj\Debug\net7.0\ref\Firstmvc.dll

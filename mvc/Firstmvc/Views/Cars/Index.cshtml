@@ -1,0 +1,17 @@
+@using Car.Models;
+@using System.Collections.Generic;
+@{
+    ViewData["Title"]="Display Cars";
+}
+
+<h1>We Have These Cars</h1><div class="text-center">
+    @{
+        List<Cars> allProducts=(List<Cars>)ViewData["catalog"]; 
+        <ol>
+            @foreach(Cars C1 in allProducts){
+                <li>@C1.company+" "+C1.color</li>
+            }
+        </ol>
+    } 
+    <hr/>
+</div>
