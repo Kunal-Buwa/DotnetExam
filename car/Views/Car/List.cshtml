@@ -1,0 +1,66 @@
+@using BOL;
+@{
+    ViewData["Basic"] = "Basic Detail Page";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bootstrap Dark Table</title>
+   
+    <style>
+        #img_display {
+            width: 30px;
+            height: 30px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="text-center">
+        <h3 class="display-6">We Have These Cars In Our Showroom</h3>
+    </div>
+
+    <div class="col-md-3">
+        <h5>Cars List</h5>
+        @{
+            List<Car>? AllCars = (List<Car>?)ViewData["List"];
+
+            <table class="table table-stripped">
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>NAME</th>
+                        <th>Company</th>
+                       <th>Type</th>
+
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var car in AllCars)
+                    {
+                        <tr>
+                            <td>@car.CarID</td>
+                            <td>@car.CarName</td>
+                            <td>@car.Company</td>
+                            <td>@car.Type</td>
+
+@* 
+                            <td align="center"><a href="/Student/Details/@Student.Id"><img id="img_display" title="View Details"
+                                    src="https://cdn-icons-png.flaticon.com/128/6592/6592963.png"></a>
+                            </td> *@
+                        </tr>
+                    }
+                </tbody>
+
+            </table>
+            
+        }
+    </div>
+   
+</body>
+
+</html>
